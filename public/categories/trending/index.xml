@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trending on GoJournal | Hugo Personal Blog Template</title>
-    <link>https://examplesite.com/categories/trending/</link>
-    <description>Recent content in trending on GoJournal | Hugo Personal Blog Template</description>
+    <title>trending on Lovelyz (unofficial)</title>
+    <link>https://lvlz8.github.io/categories/trending/</link>
+    <description>Recent content in trending on Lovelyz (unofficial)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>euc-kr</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/trending/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://lvlz8.github.io/categories/trending/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Funky &amp; Eclectic Austin Urban An House Tour</title>
-      <link>https://examplesite.com/post/trending-post-2/</link>
+      <link>https://lvlz8.github.io/post/trending-post-2/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/post/trending-post-2/</guid>
+      <guid>https://lvlz8.github.io/post/trending-post-2/</guid>
       <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
     </item>
     
     <item>
       <title>A Funky &amp; Eclectic Austin Urban An House Tour</title>
-      <link>https://examplesite.com/post/trending-post-3/</link>
+      <link>https://lvlz8.github.io/post/trending-post-3/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/post/trending-post-3/</guid>
+      <guid>https://lvlz8.github.io/post/trending-post-3/</guid>
       <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
     </item>
     

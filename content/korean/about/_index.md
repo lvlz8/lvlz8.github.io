@@ -1,5 +1,5 @@
 ---
-title: "러블리즈 멤버 소개"
+title: "러블리즈 소개"
 image: "images/about.jpg"
 # description
 description: "울림엔터테인먼트 소속 대한민국의 8인조 걸그룹. 울림이 인피니트 이후 4년 만에 낸 아이돌이자 처음으로 선보인 걸그룹이다.
@@ -13,21 +13,33 @@ draft: false
 # team
 team:
   # team member
-  - name : "Bessie Mccoy"
-    image : "images/team/1.png"
-    designation : "Founder & CEO"
+  - name : "베이비소울"
+    image : "images/team/babysoul.jpg"
+    designation : "리더/메인보컬/래퍼"
   # team member
-  - name : "Juanita Hawkins"
-    image : "images/team/2.png"
-    designation : "Founder & CEO"
+  - name : "유지애"
+    image : "images/team/jiae.jpg"
+    designation : "서브보컬"
   # team member
-  - name : "Arlene Bell"
-    image : "images/team/3.png"
-    designation : "Founder & CEO"
+  - name : "서지수"
+    image : "images/team/jisu.jpg"
+    designation : "서브보컬/리드댄서"
   # team member
-  - name : "Jorge Russell"
-    image : "images/team/4.png"
-    designation : "Founder & CEO"
+  - name : "이미주"
+    image : "images/team/miju.jpg"
+    designation : "서브보컬/메인댄서"
+  - name : "Kei"
+    image : "images/team/kei.jpg"
+    designation : "메인보컬/리드댄서"
+  - name : "JIN"
+    image : "images/team/jin.jpg"
+    designation : "메인보컬"  
+  - name : "류수정"
+    image : "images/team/ryu.jpg"
+    designation : "리드보컬"
+  - name : "정예인"
+    image : "images/team/yein.jpg"
+    designation : "서브보컬/메인댄서"     
 ---
 
 ## 음악성
@@ -61,4 +73,4 @@ team:
 
 아이돌로지에서 선정한 "2015 올해의 음반"에는 《Hi~》가 인피니트의 《Reality》, 샤이니의 《Odd》와 함께 공동 7위에 올랐으며, 국내 weiv의 '필자들이 꼽은 올해의 트랙'에서는 '〈Ah-Choo〉'가 두 번, '〈안녕 (Hi~)〉'이 한 번 언급되었다. 거기에 데뷔 초부터 주력으로 밀었던 아카펠라 역시 여러 군데에서 호평을 받으면서 미국의 지역 지상파에서도 알려지고, 빌보드 홈페이지에서 소개되기도 했다.
 
-출처: https://namu.wiki/w/%EB%9F%AC%EB%B8%94%EB%A6%AC%EC%A6%88
+출처: [나무위키](https://namu.wiki/w/%EB%9F%AC%EB%B8%94%EB%A6%AC%EC%A6%88)

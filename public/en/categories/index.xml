@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on GoJournal | Hugo Personal Blog Template</title>
-    <link>https://examplesite.com/en/categories/</link>
-    <description>Recent content in Categories on GoJournal | Hugo Personal Blog Template</description>
+    <title>Categories on Lovelyz (unofficial)</title>
+    <link>https://lvlz8.github.io/en/categories/</link>
+    <description>Recent content in Categories on Lovelyz (unofficial)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 14 Mar 2020 16:40:24 +0600</lastBuildDate><atom:link href="https://examplesite.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 16:40:24 +0600</lastBuildDate><atom:link href="https://lvlz8.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>travelling</title>
-      <link>https://examplesite.com/en/categories/travelling/</link>
+      <link>https://lvlz8.github.io/en/categories/travelling/</link>
       <pubDate>Sat, 14 Mar 2020 16:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/travelling/</guid>
+      <guid>https://lvlz8.github.io/en/categories/travelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elements</title>
-      <link>https://examplesite.com/en/categories/elements/</link>
+      <link>https://lvlz8.github.io/en/categories/elements/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/elements/</guid>
+      <guid>https://lvlz8.github.io/en/categories/elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>featured</title>
-      <link>https://examplesite.com/en/categories/featured/</link>
+      <link>https://lvlz8.github.io/en/categories/featured/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/featured/</guid>
+      <guid>https://lvlz8.github.io/en/categories/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hosting</title>
-      <link>https://examplesite.com/en/categories/hosting/</link>
+      <link>https://lvlz8.github.io/en/categories/hosting/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/hosting/</guid>
+      <guid>https://lvlz8.github.io/en/categories/hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hunting</title>
-      <link>https://examplesite.com/en/categories/hunting/</link>
+      <link>https://lvlz8.github.io/en/categories/hunting/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/hunting/</guid>
+      <guid>https://lvlz8.github.io/en/categories/hunting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photography</title>
-      <link>https://examplesite.com/en/categories/photography/</link>
+      <link>https://lvlz8.github.io/en/categories/photography/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/photography/</guid>
+      <guid>https://lvlz8.github.io/en/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shooting</title>
-      <link>https://examplesite.com/en/categories/shooting/</link>
+      <link>https://lvlz8.github.io/en/categories/shooting/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/shooting/</guid>
+      <guid>https://lvlz8.github.io/en/categories/shooting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>trending</title>
-      <link>https://examplesite.com/en/categories/trending/</link>
+      <link>https://lvlz8.github.io/en/categories/trending/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://examplesite.com/en/categories/trending/</guid>
+      <guid>https://lvlz8.github.io/en/categories/trending/</guid>
       <description></description>
     </item>
     
