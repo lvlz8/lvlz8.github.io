@@ -1,37 +1,14 @@
 ---
-title: "A Funky & Eclectic Austin Urban An House Tour"
-date: 2020-03-14T15:40:24+06:00
+title: "러블리즈(Lovelyz) 'Ah-Choo' Official MV"
+date: 2015-09-30T15:40:24+06:00
 # post thumb
-image : "images/post/post-8.png"
+image : "https://img.youtube.com/vi/v7qisJ_KuYI/maxres2.jpg"
 # description
-description: "This is meta description"
+description: "러블리즈(Lovelyz) 'Ah-Choo' Official MV"
 # Taxonomies
-categories: ["Hosting"]
+categories: ["MV"]
 # post type
 type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+{{< youtube v7qisJ_KuYI >}}
