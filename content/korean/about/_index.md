@@ -15,7 +15,7 @@ draft: false
 # team
 team:
   # team member
-  - name : "베이비소울"
+  - name : "이수정(베이비소울)"
     image : "images/team/babysoul.jpg"
     designation : "리더/메인보컬/래퍼"
   # team member
