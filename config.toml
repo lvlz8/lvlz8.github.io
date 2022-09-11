@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://lvlz8.github.io/"
+baseURL = "https://lovelyz.net/"
 title = "Lovelyz (unofficial)"
 theme = "gojournal"
 # post pagination
