@@ -52,28 +52,23 @@ link = "plugins/instafeed/instafeed.min.js"
 [[menu.main]]
 name = "About"
 URL = "about"
-weight = 1
+weight = 3
 
 [[menu.main]]
 name = "Privacy Policy"
 URL = "privacy-policy"
-weight = 2
+weight = 3
 
 [[menu.main]]
-name = "More Hugo Theme"
-URL = "https://gethugothemes.com/shop/"
+name = "Youtube"
+URL = "https://www.youtube.com/channel/UCtF9Njo6rLI8U2ZrJ_cFzHQ"
 weight = 2
-  
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 4
 
 # footer menu
 
 [[menu.footer]]
-name = "contact"
-URL = "contact"
+name = "Home"
+URL = "/"
 weight = 1
 
 
@@ -102,7 +97,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -110,7 +105,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 # promotion 
 [params.promotion]
 enable = true
-image = "images/promotion.png"
+image = "images/promotion.jpg"
 link = "#"
 
 # Instagram feed
