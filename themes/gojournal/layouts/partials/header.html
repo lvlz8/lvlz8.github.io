@@ -64,29 +64,7 @@
           {{ end }}
           {{ end }}
 
-          <!-- Language List -->
-          <li class="nav-item">
-            {{ if .IsTranslated }}
-            <select class="lang-list" id="select-language" onchange="location = this.value;">
-              {{ $siteLanguages := .Site.Languages}}
-              {{ $pageLang := .Page.Lang}}
-              {{ range .Page.AllTranslations }}
-              {{ $translation := .}}
-              {{ range $siteLanguages }}
-              {{ if eq $translation.Lang .Lang }}
-              {{ $selected := false }}
-              {{ if eq $pageLang .Lang}}
-              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-              </option>
-              {{ else }}
-              <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-              {{ end }}
-              {{ end }}
-              {{ end }}
-              {{ end }}
-            </select>
-            {{ end }}
-          </li>
+        
         </ul>
       </div>
     </nav>
