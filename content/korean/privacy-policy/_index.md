@@ -12,3 +12,6 @@ draft: false
 
 ### Gathering of Personal Information
 본 사이트는 개인정보를 수집하지 않습니다.
+
+
+알림: 현재 이 사이트는 개발 중에 있습니다. 메뉴 구성이나 컨텐츠가 자주 변경될 수 있습니다.
