@@ -53,5 +53,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>album</title>
+      <link>https://lovelyz.net/categories/album/</link>
+      <pubDate>Mon, 17 Nov 2014 15:40:24 +0600</pubDate>
+      
+      <guid>https://lovelyz.net/categories/album/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
