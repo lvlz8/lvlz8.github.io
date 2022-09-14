@@ -29,6 +29,8 @@ draft: false
 ## Music Videos
 {{< youtube HRQEs4vOIrY >}}
 
+{{< youtube K8xpDBBuyJI >}}
+
 {{< youtube e4OUt56aCiA >}}
 
 {{< youtube EbW3Hs7Q >}}
@@ -36,3 +38,10 @@ draft: false
 {{< youtube uw1ZSSS4hjE >}}
 
 {{< youtube 5719yT-LgmA >}}
+
+## Lyrics
+{{< youtube qL17byNgEZU >}}
+
+## Live stages
+{{< youtube AAUa2dKJJ1E >}}
+
