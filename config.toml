@@ -82,11 +82,11 @@ weight = 2
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "lovelyz.net"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "G-BLNQP6GCHJ" # your id
 # sidebar
 sidebar = "left" #sidebar value (left,right,false)
 
