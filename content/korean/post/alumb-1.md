@@ -3,7 +3,7 @@ title: "[Album] Girls' Invasion"
 date: 2014-11-17T15:40:24+06:00
 author: "224-rainbow"
 # post thumb
-image : "https://lovelyz.net/albums/album_girlsinvasion.jpeg"
+image : "https://i.ytimg.com/vi/mGEu5zmw6oA/maxresdefault.jpg"
 # description
 description: ""
 # Taxonomies
