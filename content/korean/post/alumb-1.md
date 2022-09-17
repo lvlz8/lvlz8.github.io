@@ -13,9 +13,9 @@ type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
 
-
 ## TRACK LIST
 {{< youtube daIOJ-nAjjI >}}
+
 1. Introducing the Candy
 2. Candy Jelly Love
 3. 어제처럼 굿나잇
@@ -27,16 +27,22 @@ draft: false
 9. 너만 없다 (JIN Solo)
 
 ## Music Videos
+### Candy Jelly Love
 {{< youtube HRQEs4vOIrY >}}
 
+### 어제처럼 굿나잇
 {{< youtube K8xpDBBuyJI >}}
 
+### 남보다 못한 사이 (feat. 휘성) (Babysoul Solo)
 {{< youtube e4OUt56aCiA >}}
 
-{{< youtube EbW3Hs7Q >}}
+### 그녀는 바람둥이야 (feat. 동우 Of 인피니트) (Babysoul & Kei)
+{{< youtube 8x-EbW3Hs7Q >}}
 
+### Delight (Yoo Ji-Ae Solo)
 {{< youtube uw1ZSSS4hjE >}}
 
+### 너만 없다 (JIN Solo)
 {{< youtube 5719yT-LgmA >}}
 
 ## Lyrics
