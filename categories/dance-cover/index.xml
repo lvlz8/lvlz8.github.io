@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dance Cover on Lovelyz (unofficial)</title>
+    <link>https://lovelyz.net/categories/dance-cover/</link>
+    <description>Recent content in Dance Cover on Lovelyz (unofficial)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>euc-kr</language>
+    <copyright>Copyright &amp;copy; 2022 lovelyz.net, a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Fri, 06 Apr 2018 16:40:24 +0600</lastBuildDate><atom:link href="https://lovelyz.net/categories/dance-cover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ah-Choo(아츄) Dance Cover 모음</title>
+      <link>https://lovelyz.net/post/cover_ah_choo/</link>
+      <pubDate>Fri, 06 Apr 2018 16:40:24 +0600</pubDate>
+      
+      <guid>https://lovelyz.net/post/cover_ah_choo/</guid>
+      <description>Dance cover by Ladyz (방콕, 태국 - Bangkok, Thailand)
+Dance cover by MaylMans (일본, Japan)
+Dance cover by 4X4 한국(Korea), 2021</description>
+    </item>
+    
+  </channel>
+</rss>
