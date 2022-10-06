@@ -8,7 +8,7 @@ description: ""
 # Taxonomies
 categories: ["featured", "미주"]
 # post type
-type: "featured" # all type (featured, trending, regular)
+type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
 {{< youtube QCx-9kGhHZc >}}
