@@ -4,7 +4,7 @@ date: 2018-04-06T16:40:24+06:00
 # post thumb
 image : "https://img.youtube.com/vi/CSN7vbmQOzc/hq720.jpg"
 # description
-description: ""
+description: "Ah-Choo(아츄) Dance Cover 모음"
 # Taxonomies
 categories: ["Dance Cover"]
 # post type
