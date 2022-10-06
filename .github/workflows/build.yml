@@ -20,15 +20,15 @@ jobs:
           fetch-depth: 0
           ref: main
           submodules: recursive
-      # Build hugo website with klakegg/actions-hugo@1.0.0 action
-      - name: Build website with hugo
-        working-directory: src
-        run: |
-          yes | sudo apt-get install -qq build-essential
-          # Need to install the below tools for Docsy theme.
-          yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-          yes | brew install hugo gcc
-          hugo
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build
+        run: hugo
       # Checkout destination repository
       - name: Checkout dest repo
         uses: actions/checkout@v2
