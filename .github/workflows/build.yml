@@ -28,7 +28,7 @@ jobs:
           # Need to install the below tools for Docsy theme.
           yes | /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
           yes | brew install hugo gcc
-          hugo
+          /home/linuxbrew/.linuxbrew/bin/hugo
       # Checkout destination repository
       - name: Checkout dest repo
         uses: actions/checkout@v2
