@@ -6,7 +6,7 @@ image : "https://img.youtube.com/vi/QCx-9kGhHZc/maxres2.jpg"
 # description
 description: ""
 # Taxonomies
-categories: ["featured", "미주"]
+categories: ["예능", "미주"]
 # post type
 type: "regular" # all type (featured, trending, regular)
 draft: false
