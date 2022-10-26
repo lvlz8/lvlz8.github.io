@@ -36,20 +36,20 @@
     </item>
     
     <item>
-      <title>featured</title>
-      <link>https://lovelyz.net/categories/featured/</link>
-      <pubDate>Wed, 24 Aug 2022 15:40:24 +0600</pubDate>
-      
-      <guid>https://lovelyz.net/categories/featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>미주</title>
       <link>https://lovelyz.net/categories/%EB%AF%B8%EC%A3%BC/</link>
       <pubDate>Wed, 24 Aug 2022 15:40:24 +0600</pubDate>
       
       <guid>https://lovelyz.net/categories/%EB%AF%B8%EC%A3%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>예능</title>
+      <link>https://lovelyz.net/categories/%EC%98%88%EB%8A%A5/</link>
+      <pubDate>Wed, 24 Aug 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://lovelyz.net/categories/%EC%98%88%EB%8A%A5/</guid>
       <description></description>
     </item>
     

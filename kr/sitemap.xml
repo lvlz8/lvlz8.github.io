@@ -56,23 +56,13 @@
     <loc>https://lovelyz.net/categories/news/</loc>
     <lastmod>2022-09-07T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://lovelyz.net/post/post-7/</loc>
+    <loc>https://lovelyz.net/post/show_miju/</loc>
     <lastmod>2022-08-24T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/categories/featured/</loc>
-    <lastmod>2022-08-24T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lovelyz.net/en/categories/featured/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://lovelyz.net/categories/featured/"
-                />
   </url><url>
     <loc>https://lovelyz.net/categories/%EB%AF%B8%EC%A3%BC/</loc>
+    <lastmod>2022-08-24T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/categories/%EC%98%88%EB%8A%A5/</loc>
     <lastmod>2022-08-24T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/live-2/</loc>
