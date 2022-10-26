@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lovelyz.net/post/clien-0908-2022/</loc>
-    <lastmod>2022-09-07T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://lovelyz.net/post/</loc>
-    <lastmod>2022-09-07T15:40:24+06:00</lastmod>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>https://lovelyz.net/categories/</loc>
-    <lastmod>2022-09-07T15:40:24+06:00</lastmod>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,8 +28,14 @@
                 href="https://lovelyz.net/categories/"
                 />
   </url><url>
+    <loc>https://lovelyz.net/post/mv_jin/</loc>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/categories/jin/</loc>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
+  </url><url>
     <loc>https://lovelyz.net/</loc>
-    <lastmod>2022-09-07T15:40:24+06:00</lastmod>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,6 +46,12 @@
                 hreflang="kr"
                 href="https://lovelyz.net/"
                 />
+  </url><url>
+    <loc>https://lovelyz.net/categories/mv/</loc>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/post/clien-0908-2022/</loc>
+    <lastmod>2022-09-07T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/categories/news/</loc>
     <lastmod>2022-09-07T15:40:24+06:00</lastmod>
@@ -71,9 +80,6 @@
   </url><url>
     <loc>https://lovelyz.net/categories/live/</loc>
     <lastmod>2022-04-28T16:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/categories/mv/</loc>
-    <lastmod>2022-04-26T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/featured-post-2/</loc>
     <lastmod>2022-04-26T15:40:24+06:00</lastmod>
