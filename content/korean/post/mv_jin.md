@@ -1,5 +1,5 @@
 ---
-title: "IN (러블리즈) - 어떻게 우연이겠어 (Not a coincidence) MV"
+title: "JIN (러블리즈) - 어떻게 우연이겠어 (Not a coincidence) MV"
 date: 2022-10-22T00:00:00+06:00
 # post thumb
 image : "https://img.youtube.com/vi/nJyeH1IB2c0/hq720.jpg"
