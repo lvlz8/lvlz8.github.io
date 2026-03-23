@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Privecy &amp; Policy on Lovelyz (unofficial)</title><link>https://lovelyz.net/privacy-policy/</link><description>Recent content in Privecy &amp; Policy on Lovelyz (unofficial)</description><generator>Hugo -- gohugo.io</generator><language>euc-kr</language><copyright>Copyright &amp;copy; 2022 lovelyz.net, a hugo theme by [themefisher](https://themefisher.com)</copyright><atom:link href="https://lovelyz.net/privacy-policy/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privecy &amp; Policy on Lovelyz (unofficial)</title>
+    <link>https://lovelyz.net/privacy-policy/</link>
+    <description>Recent content in Privecy &amp; Policy on Lovelyz (unofficial)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>euc-kr</language>
+    <copyright>Copyright &amp;copy; 2022 lovelyz.net, a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <atom:link href="https://lovelyz.net/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
