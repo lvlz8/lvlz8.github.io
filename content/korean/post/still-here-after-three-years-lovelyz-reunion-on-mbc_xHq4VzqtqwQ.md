@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/xHq4VzqtqwQ/hq720.jpg"
 description: "2024년 3월 MBC 방송에서 3년 만에 완전체로 재회한 러블리즈 무대를 본 오랜 러블리너스의 이야기"
 categories: ["Live"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
