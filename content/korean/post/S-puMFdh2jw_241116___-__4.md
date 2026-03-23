@@ -4,12 +4,13 @@ date: "2026-03-23T09:52:14.288Z"
 author: "Joy"
 image: "https://img.youtube.com/vi/S-puMFdh2jw/hq720.jpg"
 description: "Joy fan article"
-categories: ["lovelyz","MV"]
+categories: ["Live"]
 type: "featured"
 draft: false
 ---
-
 # 241116  콘서트 — 무대가 남긴 작은 여운
+
+{{< youtube S-puMFdh2jw >}}
 
 영상을 처음 마주했을 때, 화면에 흐르는 감정과 호흡이 먼저 가슴을 울렸습니다. 엔젤가면 영상저장소의 이번 무대는 짧지만 강한 여운을 남겼습니다.
 
