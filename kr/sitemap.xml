@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lovelyz.net/post/</loc>
-    <lastmod>2026-03-23T03:48:41+00:00</lastmod>
+    <lastmod>2022-11-23T00:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://lovelyz.net/categories/</loc>
-    <lastmod>2026-03-23T03:48:41+00:00</lastmod>
+    <lastmod>2022-11-23T00:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,11 +28,8 @@
                 href="https://lovelyz.net/categories/"
                 />
   </url><url>
-    <loc>https://lovelyz.net/categories/live/</loc>
-    <lastmod>2026-03-23T03:48:41+00:00</lastmod>
-  </url><url>
     <loc>https://lovelyz.net/</loc>
-    <lastmod>2026-03-23T03:48:41+00:00</lastmod>
+    <lastmod>2022-11-23T00:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,45 +41,6 @@
                 href="https://lovelyz.net/"
                 />
   </url><url>
-    <loc>https://lovelyz.net/categories/mijoo/</loc>
-    <lastmod>2026-03-23T03:48:41+00:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/rcn3xbgi4yw_woollim_the_live_4_lovelyz__heroine_cove/</loc>
-    <lastmod>2026-03-23T03:48:41+00:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/departure_som-likkjo8_20260323/</loc>
-    <lastmod>2026-03-23T01:38:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/xhq4vzqtqwq_3_________________mbc240330/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/categories/babysoul/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/s_ibk0rcsoo_destiny___official_mv__joy/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/categories/jin/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/categories/mv/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/lovelyz_%EB%A7%89%EB%82%B4%EC%A6%88_what_do_i_call_you_20260323/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/64n2zhlbdo0_woollim_the_live_4_baby_soullovelyz__lov/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/cover_miju_heroine_clip_20260323/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/h0nsgvktcwu_woollim_the_live_35_jinlovelyz_____cover/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/27xfsvbjeei_mbc240629/</loc>
-    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://lovelyz.net/categories/radio/</loc>
     <lastmod>2022-11-23T00:00:00+06:00</lastmod>
   </url><url>
@@ -92,8 +50,14 @@
     <loc>https://lovelyz.net/post/mv_ryu_sujeong_11_2022/</loc>
     <lastmod>2022-11-17T00:00:00+06:00</lastmod>
   </url><url>
+    <loc>https://lovelyz.net/categories/mv/</loc>
+    <lastmod>2022-11-17T00:00:00+06:00</lastmod>
+  </url><url>
     <loc>https://lovelyz.net/categories/ryusujeong/</loc>
     <lastmod>2022-11-17T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/categories/jin/</loc>
+    <lastmod>2022-10-22T00:00:00+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/mv_jin/</loc>
     <lastmod>2022-10-22T00:00:00+06:00</lastmod>
@@ -107,10 +71,16 @@
     <loc>https://lovelyz.net/post/show_miju/</loc>
     <lastmod>2022-08-24T15:40:24+06:00</lastmod>
   </url><url>
+    <loc>https://lovelyz.net/categories/mijoo/</loc>
+    <lastmod>2022-08-24T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://lovelyz.net/categories/%EC%98%88%EB%8A%A5/</loc>
     <lastmod>2022-08-24T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/live-2/</loc>
+    <lastmod>2022-04-28T16:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/categories/live/</loc>
     <lastmod>2022-04-28T16:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/live_jin_0623_2022/</loc>
@@ -185,19 +155,6 @@
   </url><url>
     <loc>https://lovelyz.net/categories/dance-cover/</loc>
     <lastmod>2018-04-06T16:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/post-5/</loc>
-    <lastmod>2016-04-24T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lovelyz.net/en/post/post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://lovelyz.net/post/post-5/"
-                />
   </url><url>
     <loc>https://lovelyz.net/post/alumb-2/</loc>
     <lastmod>2015-11-17T15:40:24+06:00</lastmod>
