@@ -8,7 +8,7 @@ description: ""
 # Taxonomies
 categories: ["MV", "RyuSujeong"]
 # post type
-type: "featured" # all type (featured, trending, regular)
+type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
 {{< youtube e3Tg0o2O4wg >}}
