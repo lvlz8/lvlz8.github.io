@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/64n2zHLbdO0/hq720.jpg"
 description: "Joy fan article"
 categories: ["lovelyz"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
