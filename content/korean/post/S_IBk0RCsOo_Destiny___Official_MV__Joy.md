@@ -1,5 +1,5 @@
 ---
-title: "() "Destiny (나의 지구)" Official MV — Joy의 감상"
+title: "Destiny(나의 지구) — 짧은 여운, 오래가는 목소리"
 date: "2026-03-23T00:00:00+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/S_IBk0RCsOo/hq720.jpg"
