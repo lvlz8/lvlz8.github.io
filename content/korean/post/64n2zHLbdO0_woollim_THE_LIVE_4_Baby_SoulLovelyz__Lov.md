@@ -4,10 +4,11 @@ date: "2026-03-23T00:00:00+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/64n2zHLbdO0/hq720.jpg"
 description: "Joy fan article"
-categories: ["lovelyz"]
+categories: ["MV","lovelyz"]
 type: "regular"
 draft: false
 ---
+{{< youtube 64n2zHLbdO0 >}}
 
 # [woollim THE LIVE 4] Baby Soul(Lovelyz) - Lovesick Girls COVER (원곡: BLACKPINK) — Joy의 감상
 
