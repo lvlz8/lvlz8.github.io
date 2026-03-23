@@ -46,12 +46,6 @@ jobs:
           rm -rf *
           yes | cp -rf ../src/public/* .
       # Commit and push changes
-      - name: Copy website built from src/public
-        working-directory: dest
-        run: |
-          rm -rf *
-          yes | cp -rf ../src/public/* .
-      # Commit and push changes
       - name: Commit website updates
         working-directory: dest
         run: |
@@ -61,4 +55,4 @@ jobs:
           git config --global user.email github-actions@github.com
           git add .
           git diff-index --quiet HEAD || git commit -m "Deploy website updates with GitHub Actions: ${GITHUB_SHA}"
-          git push origin gh-pages
+          git push --force origin gh-pages
