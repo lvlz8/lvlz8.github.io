@@ -47,6 +47,26 @@ h5, .h5 {
 h6, .h6 {
   font-size: 15px; }
 
+/* Markdown-generated headings inside post content should be
+   smaller than the page title (h1 = 48px) */
+.content h1 {
+  font-size: 32px; }
+
+.content h2 {
+  font-size: 26px; }
+
+.content h3 {
+  font-size: 22px; }
+
+.content h4 {
+  font-size: 18px; }
+
+.content h5 {
+  font-size: 16px; }
+
+.content h6 {
+  font-size: 14px; }
+
 /* Button style */
 .btn {
   font-size: 14px;
