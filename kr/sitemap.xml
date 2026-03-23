@@ -31,7 +31,7 @@
                 href="https://lovelyz.net/categories/"
                 />
   </url><url>
-    <loc>https://lovelyz.net/categories/lovelyz/</loc>
+    <loc>https://lovelyz.net/categories/live/</loc>
     <lastmod>2026-03-23T09:52:14+00:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/</loc>
@@ -47,10 +47,13 @@
                 href="https://lovelyz.net/"
                 />
   </url><url>
-    <loc>https://lovelyz.net/categories/mv/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
-  </url><url>
     <loc>https://lovelyz.net/post/s-pumfdh2jw_241116/</loc>
+    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/categories/lovelyz/</loc>
+    <lastmod>2026-03-23T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/categories/mv/</loc>
     <lastmod>2026-03-23T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/categories/radio/</loc>
@@ -87,9 +90,6 @@
     <lastmod>2022-08-24T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/live-2/</loc>
-    <lastmod>2022-04-28T16:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/categories/live/</loc>
     <lastmod>2022-04-28T16:40:24+06:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/post/live_jin_0623_2022/</loc>
