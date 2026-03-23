@@ -8,6 +8,7 @@ categories: ["MV","lovelyz"]
 type: "featured"
 draft: false
 ---
+{{< youtube S_IBk0RCsOo >}}
 
 # 러블리즈(Lovelyz) "Destiny (나의 지구)" Official MV — Joy의 감상
 
