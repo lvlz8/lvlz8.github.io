@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lovelyz.net/post/winter-concert-241116_s-pumfdh2jw/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
-  </url><url>
-    <loc>https://lovelyz.net/post/lovelyz-ah-choo-300-fan-chant-stage_-ojlr-iszny/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
-  </url><url>
     <loc>https://lovelyz.net/post/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
+    <lastmod>2026-03-23T11:02:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +16,7 @@
                 />
   </url><url>
     <loc>https://lovelyz.net/categories/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
+    <lastmod>2026-03-23T11:02:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,10 +29,10 @@
                 />
   </url><url>
     <loc>https://lovelyz.net/categories/live/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
+    <lastmod>2026-03-23T11:02:24+00:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/</loc>
-    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
+    <lastmod>2026-03-23T11:02:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,6 +43,15 @@
                 hreflang="kr"
                 href="https://lovelyz.net/"
                 />
+  </url><url>
+    <loc>https://lovelyz.net/post/ah-choo-magic-night_iw4dyyzoltc/</loc>
+    <lastmod>2026-03-23T11:02:24+00:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/post/winter-concert-241116_s-pumfdh2jw/</loc>
+    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
+  </url><url>
+    <loc>https://lovelyz.net/post/lovelyz-ah-choo-300-fan-chant-stage_-ojlr-iszny/</loc>
+    <lastmod>2026-03-23T09:52:14+00:00</lastmod>
   </url><url>
     <loc>https://lovelyz.net/categories/mijoo/</loc>
     <lastmod>2026-03-23T03:48:41+00:00</lastmod>
