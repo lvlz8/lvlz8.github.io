@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/27xfSVbJEEI/hq720.jpg"
 description: "2024년 6월 MBC 방송에서 펼쳐진 러블리즈 완전체 무대를 본 오랜 러블리너스의 이야기"
 categories: ["Live"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 {{< youtube 27xfSVbJEEI >}}
