@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/rcn3XbGI4Yw/hq720.jpg"
 description: "울림 더 라이브 4에서 이미주가 선미의 '주인공'을 커버한 무대를 본 오랜 러블리너스의 이야기"
 categories: ["Live","Mijoo"]
-type: "regular"
+type: "trending"
 draft: false
 ---
 

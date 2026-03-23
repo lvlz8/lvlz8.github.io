@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/SOM-LIKKJo8/hq720.jpg"
 description: "케이의 소소한 출국길 풍경을 담은 팬의 감상"
 categories: ["Live"]
-type: "regular"
+type: "trending"
 draft: false
 ---
 {{< youtube SOM-LIKKJo8 >}}

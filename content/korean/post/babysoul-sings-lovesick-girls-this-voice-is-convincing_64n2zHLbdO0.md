@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/64n2zHLbdO0/hq720.jpg"
 description: "울림 더 라이브 4에서 베이비소울이 블랙핑크의 '러브식 걸즈'를 커버한 무대를 본 팬의 감상"
 categories: ["Live","Babysoul"]
-type: "regular"
+type: "trending"
 draft: false
 ---
 {{< youtube 64n2zHLbdO0 >}}

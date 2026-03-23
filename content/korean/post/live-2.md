@@ -6,7 +6,7 @@ description: "이수정 LEE SU JEONG 개인 채널"
 # Taxonomies
 categories: ["Live"]
 # post type
-type: "trending" # all type (featured, trending, regular)
+type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
 {{< youtube Da0cuAk3-j4 >}}

@@ -8,7 +8,7 @@ description: "러블리즈(Lovelyz)의 '지금, 우리'(Now,We)│러블리즈 �
 # Taxonomies
 categories: ["Live"]
 # post type
-type: "trending" # all type (featured, trending, regular)
+type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
 {{< youtube k8WfhSZJUVc >}}

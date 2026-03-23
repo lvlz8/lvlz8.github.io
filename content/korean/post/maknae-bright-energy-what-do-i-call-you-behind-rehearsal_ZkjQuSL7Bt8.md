@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/ZkjQuSL7Bt8/hq720.jpg"
 description: "류수정&정예인(Lovelyz) 막내즈의 리허설 스케치를 본 오랜 러블리너스의 이야기"
 categories: ["Live"]
-type: "regular"
+type: "trending"
 draft: false
 ---
 
