@@ -1,16 +1,16 @@
 ---
-title: "📢: 여러분 우리 미주 아이돌 맞아요~~ 팬들을 울려버린 러블리즈의 완전체 무대🩷 | #러블리즈 #미주 MBC240629방송 — 무대가 남긴 작은 여운"
+title: "팬들을 울려버린 그 날 — 2024년 완전체 러블리즈가 MBC에 나타났다"
 date: "2026-03-23T00:00:00+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/27xfSVbJEEI/hq720.jpg"
-description: "Joy fan article"
-categories: ["MV","lovelyz"]
+description: "2024년 6월 MBC 방송에서 펼쳐진 러블리즈 완전체 무대를 본 오랜 러블리너스의 이야기"
+categories: ["Live"]
 type: "featured"
 draft: false
 ---
 {{< youtube 27xfSVbJEEI >}}
 
-# 📢: 여러분 우리 미주 아이돌 맞아요~~ 팬들을 울려버린 러블리즈의 완전체 무대🩷 | #러블리즈 #미주 MBC240629방송 — 무대가 남긴 작은 여운
+# 팬들을 울려버린 그 날 — 2024년 완전체 러블리즈가 MBC에 나타났다
 
 이 영상을 처음 마주했을 때, 화면 안에 흐르는 숨결과 표정들이 먼저 귀에 남았습니다. 엠뚜루마뚜루 : MBC 공식 종합 채널의 이번 무대는 길지 않았지만, 그 속에 담긴 디테일이 인상 깊었습니다.
 

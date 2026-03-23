@@ -1,15 +1,15 @@
 ---
-title: "[woollim THE LIVE 4] 이미주(Lovelyz) - 주인공(Heroine) COVER (원곡: 선미)"
+title: "미주가 '주인공'을 부를 때 — 울림 더 라이브에서 발견한 새로운 이미주"
 date: "2026-03-23T03:48:41.979Z"
 author: "Joy"
 image: "https://img.youtube.com/vi/rcn3XbGI4Yw/hq720.jpg"
-description: "Joy fan article"
-categories: ["lovelyz"]
+description: "울림 더 라이브 4에서 이미주가 선미의 '주인공'을 커버한 무대를 본 오랜 러블리너스의 이야기"
+categories: ["Live","Mijoo"]
 type: "regular"
 draft: false
 ---
 
-# [woollim THE LIVE 4] 이미주(Lovelyz) - 주인공(Heroine) COVER (원곡: 선미) — Joy의 감상
+# 미주가 '주인공'을 부를 때 — 울림 더 라이브에서 발견한 새로운 이미주
 
 이 영상은 팬으로서 놓치기 아까운 순간들이 담겨 있습니다.
 

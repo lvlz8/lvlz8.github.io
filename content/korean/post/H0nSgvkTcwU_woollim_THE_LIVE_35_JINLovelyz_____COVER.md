@@ -1,15 +1,15 @@
 ---
-title: "[woollim THE LIVE 3.5] JIN(Lovelyz) - 처음 느낌 그대로 COVER (원곡: 이소라) — Joy의 감상"
+title: "이소라의 곡이 진의 것이 되는 순간 — '처음 느낌 그대로' 커버"
 date: "2026-03-23T00:00:00+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/H0nSgvkTcwU/hq720.jpg"
-description: "Joy fan article"
-categories: ["lovelyz"]
+description: "울림 더 라이브 3.5에서 진(JIN)이 이소라의 '처음 느낌 그대로'를 커버한 무대를 본 오랜 러블리너스의 이야기"
+categories: ["Live","JIN"]
 type: "featured"
 draft: false
 ---
 
-# [woollim THE LIVE 3.5] JIN(Lovelyz) - 처음 느낌 그대로 COVER (원곡: 이소라) — Joy의 감상
+# 이소라의 곡이 진의 것이 되는 순간 — '처음 느낌 그대로' 커버
 
 영상의 첫 장면을 보는 순간, 숨이 조금 멎는 기분이 들었습니다. THE LIVE 더 라이브의 이번 무대는 짧은 시간 안에 많은 이야기를 담아냈고, 팬으로서 저는 그 작은 순간들 속에서 큰 울림을 느꼈습니다.
 

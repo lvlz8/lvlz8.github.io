@@ -1,17 +1,17 @@
 ---
-title: "3년 만에 모인 러블리즈💓 그 시절 케이팝 팬들 뭉클하게 만드는 러블리즈의 명곡 무대🎵 | #유재석 #이미주 #러블리즈 MBC240330방송 — 무대가 남긴 작은 여운"
+title: "3년이 지나도 우린 여기 있어 — MBC에서 다시 만난 러블리즈 완전체"
 date: "2026-03-23T00:00:00+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/xHq4VzqtqwQ/hq720.jpg"
-description: "Joy fan article"
-categories: ["MV","lovelyz"]
+description: "2024년 3월 MBC 방송에서 3년 만에 완전체로 재회한 러블리즈 무대를 본 오랜 러블리너스의 이야기"
+categories: ["Live"]
 type: "featured"
 draft: false
 ---
 
 {{< youtube xHq4VzqtqwQ >}}
 
-# 3년 만에 모인 러블리즈💓 그 시절 케이팝 팬들 뭉클하게 만드는 러블리즈의 명곡 무대🎵  | #유재석 #이미주 #러블리즈 MBC240330방송 — 무대가 남긴 작은 여운
+# 3년이 지나도 우린 여기 있어 — MBC에서 다시 만난 러블리즈 완전체
 
 이 영상을 처음 마주했을 때, 화면 속에서 전해지는 순간들이 깊게 남았습니다. 엠뚜루마뚜루 : MBC 공식 종합 채널의 이번 무대는 길지 않았지만, 작은 디테일들이 모여 강한 인상을 남겼습니다.
 

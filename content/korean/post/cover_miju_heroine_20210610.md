@@ -4,7 +4,7 @@ date: "2021-06-10T00:00:00+09:00"
 author: "Joy"
 image: "https://i.ytimg.com/vi/rcn3XbGI4Yw/maxresdefault.jpg"
 description: "울림 더 라이브 4에서 선미의 '주인공'을 커버한 이미주 무대를 본 오랜 러블리너스의 이야기"
-categories: ["lovelyz"]
+categories: ["Live","Mijoo"]
 type: "regular"
 draft: false
 ---

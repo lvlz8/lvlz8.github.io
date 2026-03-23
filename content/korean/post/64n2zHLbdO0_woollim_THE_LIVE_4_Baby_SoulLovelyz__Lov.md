@@ -1,16 +1,16 @@
 ---
-title: "[woollim THE LIVE 4] Baby Soul(Lovelyz) - Lovesick Girls COVER (원곡: BLACKPINK) — Joy의 감상"
+title: "베이비소울이 부른 '러브식 걸즈' — 이 목소리라면 설득된다"
 date: "2026-03-23T00:00:00+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/64n2zHLbdO0/hq720.jpg"
-description: "Joy fan article"
-categories: ["MV","lovelyz"]
+description: "울림 더 라이브 4에서 베이비소울이 블랙핑크의 '러브식 걸즈'를 커버한 무대를 본 팬의 감상"
+categories: ["Live","Babysoul"]
 type: "regular"
 draft: false
 ---
 {{< youtube 64n2zHLbdO0 >}}
 
-# [woollim THE LIVE 4] Baby Soul(Lovelyz) - Lovesick Girls COVER (원곡: BLACKPINK) — Joy의 감상
+# 베이비소울이 부른 '러브식 걸즈' — 이 목소리라면 설득된다
 
 처음 이 영상을 마주했을 때, 화면에 흐르는 따뜻한 공기와 멤버들의 자연스러운 호흡이 먼저 가슴에 닿았습니다. THE LIVE 더 라이브의 무대는 짧았지만, 그 안에 담긴 감정의 결이 또렷해 팬으로서 오래 기억에 남을 만한 순간이었어요.
 
