@@ -8,6 +8,7 @@ categories: ["MV","lovelyz"]
 type: "featured"
 draft: false
 ---
+{{< youtube 27xfSVbJEEI >}}
 
 # 📢: 여러분 우리 미주 아이돌 맞아요~~ 팬들을 울려버린 러블리즈의 완전체 무대🩷 | #러블리즈 #미주 MBC240629방송 — 무대가 남긴 작은 여운
 
