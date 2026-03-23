@@ -8,7 +8,7 @@ description: ""
 # Taxonomies
 categories: ["MV", "JIN"]
 # post type
-type: "featured" # all type (featured, trending, regular)
+type: "regular" # all type (featured, trending, regular)
 draft: false
 ---
 {{< youtube nJyeH1IB2c0 >}}
