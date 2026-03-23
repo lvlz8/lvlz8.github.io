@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/S_IBk0RCsOo/hq720.jpg"
 description: "러블리즈 'Destiny(나의 지구)' 공식 MV를 다시 꺼내 본 오랜 러블리너스의 이야기"
 categories: ["MV"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 {{< youtube S_IBk0RCsOo >}}
