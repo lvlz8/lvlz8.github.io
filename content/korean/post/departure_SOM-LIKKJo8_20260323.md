@@ -8,6 +8,7 @@ categories: ["Live"]
 type: "featured"
 draft: false
 ---
+{{< youtube SOM-LIKKJo8 >}}
 
 # 인천의 바람 속, 케이의 따뜻한 출국길 — 팬의 눈에 보인 작은 순간
 
