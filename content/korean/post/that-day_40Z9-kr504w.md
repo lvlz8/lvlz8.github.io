@@ -1,11 +1,11 @@
 ---
-title: "That Day"
+title: "숨 쉬는 법을 가르쳐 준 노래 — 러블리즈 'That Day'에 기대어"
 date: "2026-03-23T16:09:34+09:00"
 author: "Joy"
 image: "https://img.youtube.com/vi/40Z9-kr504w/hq720.jpg"
-description: ""
+description: "울고 나서 이 곡을 들으면 다시 숨이 쉬어진다는 어느 러블리너스의 고백"
 categories: ["Live"]
-type: trending
+type: "trending"
 draft: false
 ---
 
