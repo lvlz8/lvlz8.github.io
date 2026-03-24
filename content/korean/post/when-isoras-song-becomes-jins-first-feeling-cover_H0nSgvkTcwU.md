@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/H0nSgvkTcwU/hq720.jpg"
 description: "울림 더 라이브 3.5에서 진(JIN)이 이소라의 '처음 느낌 그대로'를 커버한 무대를 본 오랜 러블리너스의 이야기"
 categories: ["Live","JIN"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
