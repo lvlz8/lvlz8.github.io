@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/QXxf1zPFa58/hq720.jpg"
 description: "정예인이 취미로 만화를 그리고, 그 경험을 통해 팬들과 나누는 소소한 발견들"
 categories: ["Live"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
