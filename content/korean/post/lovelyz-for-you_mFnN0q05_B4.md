@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://i.ytimg.com/vi/mFnN0q05_B4/hqdefault.jpg"
 description: "러블리즈의 순수하고 따뜻한 매력을 담은 \"그대에게\", 다시 찾은 그 목소리"
 categories: ["MV"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
