@@ -6,7 +6,7 @@ image: "/static/images/now-we.jpg"
 categories:
   - performance
   - lovelyz
-type: featured
+type: regular
 draft: false
 ---
 
