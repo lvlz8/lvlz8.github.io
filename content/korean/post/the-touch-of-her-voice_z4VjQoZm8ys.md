@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/z4VjQoZm8ys/hq720.jpg"
 description: "뮤직뱅크에서 들려온 '찾아가세요'—무대가 만든 작은 순간들에 대한 팬의 기록"
 categories: ["Live"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
