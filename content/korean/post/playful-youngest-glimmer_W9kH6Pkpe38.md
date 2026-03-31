@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://i.ytimg.com/vi/W9kH6Pkpe38/maxresdefault.jpg"
 description: "MCOUNTDOWN 직캠에서 빛난 정예인의 소소한 매력과 팬들의 따뜻한 반응"
 categories: ["Live"]
-type: "trending"
+type: "regular"
 draft: false
 ---
 
