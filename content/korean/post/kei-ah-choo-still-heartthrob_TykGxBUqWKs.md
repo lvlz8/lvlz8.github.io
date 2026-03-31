@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/HSSl-VRaOKo/hq720.jpg"
 description: "짧지만 묘하게 남는 무대. 팬의 시선으로 본 감상과 댓글의 공감들."
 categories: ["Live"]
-type: "featured"
+type: "regular"
 draft: false
 videoId: "HSSl-VRaOKo"
 ---
