@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/5SlVgOnD_W8/hq720.jpg"
 description: "대구 무대에서 빛난 수정의 짧은 순간, 팬의 눈으로 본 디테일 기록"
 categories: ["Live","Sujeong"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
