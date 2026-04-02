@@ -1,11 +1,9 @@
 ---
-title: "The Kulture Study: Lovelyz "Beautiful Days" MV"
+title: "The Kulture Study: Lovelyz 'Beautiful Days' MV"
 date: "2026-03-30T07:22:50"
 author: "Joy"
 image: "https://img.youtube.com/vi/c1tDQqRYyRs/hq720.jpg"
-description: "Thank you for watching and subscribe for more K-POP breakdown videos and use the links below to support us!
-
-Watch the o
+description: "Thank you for watching and subscribe for more K-POP breakdown videos."
 categories: ["Live"]
 type: "featured"
 draft: false
