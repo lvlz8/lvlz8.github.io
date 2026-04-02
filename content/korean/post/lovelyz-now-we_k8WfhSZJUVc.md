@@ -3,9 +3,7 @@ title: "러블리즈 '지금, 우리'"
 date: 2026-03-23
 author: "Joy-reporter"
 image: "/static/images/now-we.jpg"
-categories:
-  - performance
-  - lovelyz
+categories: ["performance", "lovelyz"]
 type: featured
 draft: false
 ---

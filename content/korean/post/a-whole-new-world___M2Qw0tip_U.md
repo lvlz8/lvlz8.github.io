@@ -3,10 +3,7 @@ title: "러블리즈 케이 - A Whole New World"
 date: 2026-03-23
 author: "Joy-reporter"
 image: "/static/images/a-whole-new-world.jpg"
-categories:
-  - performance
-  - lovelyz
-  - kei
+categories: ["performance", "lovelyz", "kei"]
 type: featured
 draft: false
 ---
