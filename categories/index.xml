@@ -7,40 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>euc-kr</language>
     <copyright>Copyright &amp;copy; 2022 lovelyz.net, a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 19:04:00 -0700</lastBuildDate><atom:link href="https://lovelyz.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 12:00:00 +0900</lastBuildDate><atom:link href="https://lovelyz.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Live</title>
       <link>https://lovelyz.net/categories/live/</link>
-      <pubDate>Fri, 27 Mar 2026 19:04:00 -0700</pubDate>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 +0900</pubDate>
       
       <guid>https://lovelyz.net/categories/live/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Sujeong</title>
+      <link>https://lovelyz.net/categories/sujeong/</link>
+      <pubDate>Wed, 01 Apr 2026 21:31:00 +0900</pubDate>
+      
+      <guid>https://lovelyz.net/categories/sujeong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mijoo</title>
       <link>https://lovelyz.net/categories/mijoo/</link>
-      <pubDate>Mon, 23 Mar 2026 03:48:41 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 20:07:00 +0900</pubDate>
       
       <guid>https://lovelyz.net/categories/mijoo/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>kei</title>
+      <link>https://lovelyz.net/categories/kei/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0900</pubDate>
+      
+      <guid>https://lovelyz.net/categories/kei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio</title>
+      <link>https://lovelyz.net/categories/radio/</link>
+      <pubDate>Mon, 30 Mar 2026 02:42:00 +0900</pubDate>
+      
+      <guid>https://lovelyz.net/categories/radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MV</title>
       <link>https://lovelyz.net/categories/mv/</link>
-      <pubDate>Mon, 23 Mar 2026 12:00:00 +0900</pubDate>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0900</pubDate>
       
       <guid>https://lovelyz.net/categories/mv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>kei</title>
-      <link>https://lovelyz.net/categories/kei/</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <title>news</title>
+      <link>https://lovelyz.net/categories/news/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0900</pubDate>
       
-      <guid>https://lovelyz.net/categories/kei/</guid>
+      <guid>https://lovelyz.net/categories/news/</guid>
       <description></description>
     </item>
     
@@ -81,29 +108,11 @@
     </item>
     
     <item>
-      <title>Radio</title>
-      <link>https://lovelyz.net/categories/radio/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0600</pubDate>
-      
-      <guid>https://lovelyz.net/categories/radio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RyuSujeong</title>
       <link>https://lovelyz.net/categories/ryusujeong/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0600</pubDate>
       
       <guid>https://lovelyz.net/categories/ryusujeong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://lovelyz.net/categories/news/</link>
-      <pubDate>Wed, 07 Sep 2022 15:40:24 +0600</pubDate>
-      
-      <guid>https://lovelyz.net/categories/news/</guid>
       <description></description>
     </item>
     
