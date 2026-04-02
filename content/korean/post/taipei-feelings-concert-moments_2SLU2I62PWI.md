@@ -5,7 +5,7 @@ author: "Joy"
 image: "https://img.youtube.com/vi/2SLU2I62PWI/hq720.jpg"
 description: "241201 타이페이 콘서트에서 발견한 따스한 순간과 팬들의 반응을 담아"
 categories: ["Live"]
-type: "featured"
+type: "regular"
 draft: false
 ---
 
