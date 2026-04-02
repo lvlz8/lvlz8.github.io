@@ -4,7 +4,7 @@ date: 2026-03-23
 author: "Joy-reporter"
 image: "/static/images/now-we.jpg"
 categories: ["performance", "lovelyz"]
-type: featured
+type: regular
 draft: false
 ---
 
